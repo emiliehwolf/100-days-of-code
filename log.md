@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 0.1: May 11, 2017
-##### (delete me or comment me out)
 
 **Today's Progress**: Created #100DaysOfCode Challenge in my Data Scientists party on Habitica. Logged into Kaggle.com and HackerRank.com to get an overview of the lessons and competitions. Also browsed FreeCodeCamp.com/map
 
