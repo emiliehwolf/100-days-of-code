@@ -2,7 +2,7 @@
 
 ### Day 0.0: May 10, 2017
 
-**Today's Progress**: Created #100DaysOfCode Challenge in my Data Scientists party on Habitica. Logged into Kaggle.com and HackerRank.com to get an overview of the lessons and competitions. Also browsed FreeCodeCamp.com/map
+**Today's Progress**: Created #100DaysOfCode Challenge in my Data Scientists party on Habitica. We officially begin on Monday, May 15th. Logged into Kaggle.com and HackerRank.com to get an overview of the lessons and competitions. Also browsed FreeCodeCamp.com/map
 
 **Thoughts:** Kaggle seems the most specialized for data science, but I still need to learn more R Programming before I'm ready for Kaggle. I think I will use my library book, R in 24 Hours, and my Coursera lessons as my curriculum. I will also continue to study R vocabulary on Memrise to keep things interesting and avoid monotony.
 
