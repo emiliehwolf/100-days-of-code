@@ -1,24 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 0.1: May 11, 2017
+### Day 0.0: May 10, 2017
 
 **Today's Progress**: Created #100DaysOfCode Challenge in my Data Scientists party on Habitica. Logged into Kaggle.com and HackerRank.com to get an overview of the lessons and competitions. Also browsed FreeCodeCamp.com/map
 
-**Thoughts:** Kaggle seems the most specialized for data science, but I still need to learn more R Programming before I'm ready for Kaggle. I think I will use my library book, R in 24 Hours, and my Coursera lessons as my curriculum.
+**Thoughts:** Kaggle seems the most specialized for data science, but I still need to learn more R Programming before I'm ready for Kaggle. I think I will use my library book, R in 24 Hours, and my Coursera lessons as my curriculum. I will also continue to study R vocabulary on Memrise to keep things interesting and avoid monotony.
+
+
+### Day 0.1: May 11, 2017 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: []()
 
 
 
-
-
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
 
 
 ### Day 1: June 27, Monday
