@@ -13,7 +13,7 @@
 
 **Today's Progress**: Listened to "Not So Standard Deviations" podcast while copying down common R functions from Memrise. New Habitica party member Daralysis joined today, so I saved the last 7 days of chat log in a Google doc so I won't forget all their names and introductions. Finally, completed several SWIRL lessons for Coursera and perused the first graphics chapter in my book, R in 24 Hours.
 
-**Thoughts**: Maybe tomorrow I can finish the Week 2 quiz on Coursera and start playing with datasets from Kaggle to see what graphs I can make
+**Thoughts**: The Swirl lesson "Working with Colors" introduced me to several new functions: colorRamp(), colorRampPallete(), rgb(), and brewer.pal() from the RColorBrewer package. colorRampPallete() takes 2 colors and integer n and the result is a vector of colors of length n that are between the min and max you specified. This will be extremely helpful when I need to make a range of 366 colors for the publication of my dream journal. I remember I used Google Spreadsheet to come up with these colors and it took a long time. Now I know a much faster way to get these colors if I decide to change the ranges or the opacity!
 
 **Interesting Link I Found Just Now**: [Chart on the History of Programming Languages](http://www.digibarn.com/collections/posters/tongues/ComputerLanguagesChart.png)
 
