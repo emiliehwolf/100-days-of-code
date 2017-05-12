@@ -6,7 +6,7 @@
 
 **Thoughts:** Kaggle seems the most specialized for data science, but I still need to learn more R Programming before I'm ready for Kaggle. I think I will use my library book, R in 24 Hours, and my Coursera lessons as my curriculum. I will also continue to study R vocabulary on Memrise to keep things interesting and avoid monotony.
 
-**Link to first tweet**: [First tweet about challenge](https://twitter.com/emhunts/status/862647972621844480)
+**Link to first tweet** [First tweet about challenge](https://twitter.com/emhunts/status/862647972621844480)
 
 
 ### Day 0.1: May 11, 2017 
@@ -15,7 +15,9 @@
 
 **Thoughts**: The Swirl lesson "Working with Colors" introduced me to several new functions: colorRamp(), colorRampPallete(), rgb(), and brewer.pal() from the RColorBrewer package. colorRampPallete() takes 2 colors and integer n and the result is a vector of colors of length n that are between the min and max you specified. This will be extremely helpful when I need to make a range of 366 colors for the publication of my dream journal. I remember I used Google Spreadsheet to come up with these colors and it took a long time. Now I know a much faster way to get these colors if I decide to change the ranges or the opacity!
 
-**Interesting Link I Found Just Now**: [Chart on the History of Programming Languages](http://www.digibarn.com/collections/posters/tongues/ComputerLanguagesChart.png)
+**Links** 
+1. [Chart on the History of Programming Languages](http://www.digibarn.com/collections/posters/tongues/ComputerLanguagesChart.png)
+2. [Working with Colors in R Tutorial](https://github.com/DataScienceSpecialization/courses/blob/master/04_ExploratoryAnalysis/Colors/index.Rmd)
 
 
 
