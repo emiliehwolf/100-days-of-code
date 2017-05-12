@@ -11,11 +11,11 @@
 
 ### Day 0.1: May 11, 2017 
 
-**Today's Progress**: 
+**Today's Progress**: Listened to "Not So Standard Deviations" podcast while copying down common R functions from Memrise. New Habitica party member Daralysis joined today, so I saved the last 7 days of chat log in a Google doc so I won't forget all their names and introductions. Finally, completed several SWIRL lessons for Coursera and perused the first graphics chapter in my book, R in 24 Hours.
 
-**Thoughts**: 
+**Thoughts**: Maybe tomorrow I can finish the Week 2 quiz on Coursera and start playing with datasets from Kaggle to see what graphs I can make
 
-**Link(s) to work**: []()
+**Interesting Link I Found Just Now**: [Chart on the History of Programming Languages](http://www.digibarn.com/collections/posters/tongues/ComputerLanguagesChart.png)
 
 
 
