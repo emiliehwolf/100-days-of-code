@@ -20,15 +20,10 @@
 2. [Working with Colors in R Tutorial](https://github.com/DataScienceSpecialization/courses/blob/master/04_ExploratoryAnalysis/Colors/index.Rmd)
 
 
+### Day 1: May 15, 2017, Monday
 
+**Today's Progress**: Today I entered in much of the practice code from Chapter 14 of my library book (R in 24 Hours). I saved all the plots and the Rhistory and uploaded them to GitHub using SourceTree. I ended up working for 1.5 hours. 
 
+**Thoughts** Next I'll make a nice markdown file in the repo and display the plots so I'll have a quick reference guide.
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work** [ggplot2_examples](https://github.com/emiliehwolf/ggplot2_examples)
