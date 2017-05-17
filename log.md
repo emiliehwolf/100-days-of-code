@@ -40,6 +40,6 @@
 
 **Today's Progress:** Finished creating my study guide from chapter 14 of my library book, R in 24 Hours.
 
-**Thoughts:** Can't stop, won't stop. Was surprised to find out pie charts are available in ggplot2. Eager to do the Quiz and Activities section for this chapter tomorrow.
+**Thoughts:** Can't stop, won't stop. Was surprised to find out pie charts are discouraged in R. Eager to do the Quiz and Activities section for this chapter tomorrow.
 
 **Link to latest commit:** [ggplot2_examples](https://github.com/emiliehwolf/ggplot2_examples/tree/700b1207cb143addba360e99b5d50b26a580985f)
