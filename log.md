@@ -30,8 +30,16 @@
 
 ### Day 2: May 16, 2017, Tuesday, 3:30AM
 
-**Today's Progress**: Created markdown file to display ggplot2 quick plot examples from my library book, R in 24 Hours.
+**Today's Progress:** Created markdown file to display ggplot2 quick plot examples from my library book, R in 24 Hours.
 
-**Thoughts**: Not sure if this counts for the next day since I haven't slept yet. Oh well. I think my markdown file looks very nice and can probably be transformed into HTML pretty easily. I can't wait to finish the chapter in my book with all the ggplot() examples
+**Thoughts:** Not sure if this counts for the next day since I haven't slept yet. Oh well. I think my markdown file looks very nice and can probably be transformed into HTML pretty easily. I can't wait to finish the chapter in my book with all the ggplot() examples
 
 **Link to latest commit:** [ggplot2 examples](https://github.com/emiliehwolf/ggplot2_examples/tree/37d2d3d654454eadb2d3006c43358283c7017823)
+
+### Day 3: May 17, 2017, Wednesday, 5:00AM
+
+**Today's Progress:** Finished creating my study guide from chapter 14 of my library book, R in 24 Hours.
+
+**Thoughts:** Can't stop, won't stop. Was surprised to find out pie charts are available in ggplot2. Eager to do the Quiz and Activities section for this chapter tomorrow.
+
+**Link to latest commit:** [ggplot2_examples](https://github.com/emiliehwolf/ggplot2_examples/tree/700b1207cb143addba360e99b5d50b26a580985f)
