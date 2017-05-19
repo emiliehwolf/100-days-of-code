@@ -51,3 +51,8 @@
 **Thoughts:** I learned how to use the randomcoloR library to make unique color palettes.
 
 **Link to latest commit:** [ggplot2_examples](https://github.com/emiliehwolf/ggplot2_examples/tree/bdd38f9db67f192ded5b65c4b0cc340282877d34)
+
+### Day 5: May 19, 2017, Friday, 4:08PM
+
+Today I worked through the 3 lecture videos on Clustering from Exploratory Data Analysis and practiced entering all the code from the tutorial. I basically got the same plots and results from this [study guide here](https://github.com/DataScienceSpecialization/courses/blob/master/04_ExploratoryAnalysis/hierarchicalClustering/index.md). 
+Tonight and this weekend I need to finish the rest of Week 3 videos and Swirl practice exercises so I will be ready for the difficult assignment for week 4. All these statistical techniques are useful to know and I shouldn't stress so much about comprehending them fully, but rather just be familiar with them so I know where to get the answers should the question arise.
