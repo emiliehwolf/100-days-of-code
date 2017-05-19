@@ -43,3 +43,11 @@
 **Thoughts:** Can't stop, won't stop. Was surprised to find out pie charts are discouraged in R. Eager to do the Quiz and Activities section for this chapter tomorrow.
 
 **Link to latest commit:** [ggplot2_examples](https://github.com/emiliehwolf/ggplot2_examples/tree/700b1207cb143addba360e99b5d50b26a580985f)
+
+### Day 4: May 18, 2017, Thursday, 11:57PM
+
+**Today's Progress:** Added the 6 Activities to the study guide on my GitHub! Now watching the lecture videos for this week's Coursera.
+
+**Thoughts:** I learned how to use the randomcoloR library to make unique color palettes.
+
+**Link to latest commit:** [ggplot2_examples](https://github.com/emiliehwolf/ggplot2_examples/tree/bdd38f9db67f192ded5b65c4b0cc340282877d34)
