@@ -56,3 +56,7 @@
 
 Today I worked through the 3 lecture videos on Clustering from Exploratory Data Analysis and practiced entering all the code from the tutorial. I basically got the same plots and results from this [study guide here](https://github.com/DataScienceSpecialization/courses/blob/master/04_ExploratoryAnalysis/hierarchicalClustering/index.md). 
 Tonight and this weekend I need to finish the rest of Week 3 videos and Swirl practice exercises so I will be ready for the difficult assignment for week 4. All these statistical techniques are useful to know and I shouldn't stress so much about comprehending them fully, but rather just be familiar with them so I know where to get the answers should the question arise.
+
+### Day 6: May 21, 2017, Sunday, 2:36AM
+
+Plodding away on the remaining lecture videos and SWIRL practice assignments for Week 3 of Exploratory Data Analysis. Wish I could have gotten more done the last few days, but my personal life was more important. Will stay on track!
