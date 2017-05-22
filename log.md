@@ -60,3 +60,7 @@ Tonight and this weekend I need to finish the rest of Week 3 videos and Swirl pr
 ### Day 6: May 21, 2017, Sunday, 2:36AM
 
 Plodding away on the remaining lecture videos and SWIRL practice assignments for Week 3 of Exploratory Data Analysis. Wish I could have gotten more done the last few days, but my personal life was more important. Will stay on track!
+
+### Day 7, May 22, 2017, Monday, 3:25AM
+
+Finished the SWIRL tutorials on Hierarchical Clustering, K-Means Clustering, Dimension Reduction, and a real-world clustering example. [Here's a link to the tutorial on GitHub.](https://github.com/DataScienceSpecialization/courses/blob/master/04_ExploratoryAnalysis/clusteringExample/index.md)
