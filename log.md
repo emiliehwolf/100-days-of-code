@@ -64,3 +64,9 @@ Plodding away on the remaining lecture videos and SWIRL practice assignments for
 ### Day 7, May 22, 2017, Monday, 3:25AM
 
 Finished the SWIRL tutorials on Hierarchical Clustering, K-Means Clustering, Dimension Reduction, and a real-world clustering example. [Here's a link to the tutorial on GitHub.](https://github.com/DataScienceSpecialization/courses/blob/master/04_ExploratoryAnalysis/clusteringExample/index.md)
+
+### Day 8, May 25, 2017, Thursday, 1:08AM
+
+**Today's Progress:** Today I looked through my library book, R in 24 Hours, for any reference to clustering, kmeans, imputing, or dimension reduction. No such luck. Next I went for a walk to the grocery store and listened to [Not So Standard Deviations Episode 11](https://soundcloud.com/nssd-podcast/episode-11-start-and-stop) along the way and back. Once I came home, I worked on a business article for LinkedIn and got swept away editing. Finally I realized I was over-editing and decided to not work on it again until I had slept. Now I'm lying in bed watching the [Air Pollution Case Study video](https://www.coursera.org/learn/exploratory-data-analysis/lecture/hVteM/air-pollution-case-study) and following along the [R script analysis](https://github.com/DataScienceSpecialization/courses/blob/master/04_ExploratoryAnalysis/CaseStudy/script.R).
+
+**Thoughts:** I really enjoyed the podcast today as I walked. It was a gorgeous day with lots of sun and the podcast was about Roger and Hilary's answer to the question, What's the first thing you do for a data analysis? Hilary starts by tidying the data and then applies it to the "Hadley-verse" (Hadley Wickam is the author of many specialized R packages). Roger starts by wrangling missing data (NA's) and then usually goes straight into modeling (regression?). They discussed whether or not they prefer boxplots or overlaying histograms when doing basic exploratory plots.
