@@ -70,3 +70,11 @@ Finished the SWIRL tutorials on Hierarchical Clustering, K-Means Clustering, Dim
 **Today's Progress:** Today I looked through my library book, R in 24 Hours, for any reference to clustering, kmeans, imputing, or dimension reduction. No such luck. Next I went for a walk to the grocery store and listened to [Not So Standard Deviations Episode 11](https://soundcloud.com/nssd-podcast/episode-11-start-and-stop) along the way and back. Once I came home, I worked on a business article for LinkedIn and got swept away editing. Finally I realized I was over-editing and decided to not work on it again until I had slept. Now I'm lying in bed watching the [Air Pollution Case Study video](https://www.coursera.org/learn/exploratory-data-analysis/lecture/hVteM/air-pollution-case-study) and following along the [R script analysis](https://github.com/DataScienceSpecialization/courses/blob/master/04_ExploratoryAnalysis/CaseStudy/script.R).
 
 **Thoughts:** I really enjoyed the podcast today as I walked. It was a gorgeous day with lots of sun and the podcast was about Roger and Hilary's answer to the question, What's the first thing you do for a data analysis? Hilary starts by tidying the data and then applies it to the "Hadley-verse" (Hadley Wickam is the author of many specialized R packages). Roger starts by wrangling missing data (NA's) and then usually goes straight into modeling (regression?). They discussed whether or not they prefer boxplots or overlaying histograms when doing basic exploratory plots.
+
+### Day 9, May 25, 2017, Thursday, 11:02PM
+
+**Today's Progress:** I finished going through the Air Pollution Case Study from yesterday and I uploaded the analysis script with tons and tons of comments so I can always look back and understand it.
+
+**Thoughts:** Lazy day for me. I'm curious and want to keep learning.
+
+**Link to today's work:** [pm25 analysis with comments](https://github.com/emiliehwolf/pm25_data_casestudy/blob/master/pm25analysis.R)
