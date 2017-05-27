@@ -79,7 +79,7 @@ Finished the SWIRL tutorials on Hierarchical Clustering, K-Means Clustering, Dim
 
 **Link to today's work:** [pm25 analysis with comments](https://github.com/emiliehwolf/pm25_data_casestudy/blob/master/pm25analysis.R)
 
-## Day 10, May 27, 2017, Saturday, 1:19AM
+# Day 10, May 27, 2017, Saturday, 1:19AM
 
 **Today's Progress:** Today I worked on the final assignment for the Exploratory Data Analysis class. We are supposed to analyze the PM2.5 Emissions data from NEI and create plots that show whether or not emissions have decreased based on different criteria. I finished the first 3 plots (and in fact, I did the 3rd plot 3 different ways).
 
