@@ -89,3 +89,8 @@ Finished the SWIRL tutorials on Hierarchical Clustering, K-Means Clustering, Dim
 
 ### Day 11, Saturday, May 27, 2017, 7:00PM
 All I did today was go for an hour walk and listen to episodes 13 and 14 of the Not So Standard Deviations podcast
+
+### Day 12, Sunday, May 28, 2017, 12:42PM
+I didn't code for just 1 hour... more like 5. I've been up since early this morning and finished my final assignment for Exploratory Data Analysis on Coursera. Now I just need to review the work of 4 other students...
+
+**Link to Project:** [EDA_Wk4Assignment](https://github.com/emiliehwolf/EDA_Wk4Assignment)
