@@ -88,4 +88,4 @@ Finished the SWIRL tutorials on Hierarchical Clustering, K-Means Clustering, Dim
 **Link to latest commit:** [EDA_Wk4Assignment](https://github.com/emiliehwolf/EDA_Wk4Assignment/blob/0e052ba382393dc8c6122d1be85a41b90e174876/pm25analysis.R)
 
 ### Day 11, Saturday, May 27, 2017, 7:00PM
-All i did today was go for an hour walk and listen to episode 12 of the Not So Standard Deviations 
+All I did today was go for an hour walk and listen to episodes 13 and 14 of the Not So Standard Deviations podcast
