@@ -86,3 +86,6 @@ Finished the SWIRL tutorials on Hierarchical Clustering, K-Means Clustering, Dim
 **Thoughts:** I like tackling these questions by first drawing on paper the kind of graphs and data tables I expect to have. Then I play around in R to manipulate the data and plot it. I still find myself forgetting function names and arguments, but as long as I have a rough idea of what steps to take, I can usually find the code on StackOverflow.
 
 **Link to latest commit:** [EDA_Wk4Assignment](https://github.com/emiliehwolf/EDA_Wk4Assignment/blob/0e052ba382393dc8c6122d1be85a41b90e174876/pm25analysis.R)
+
+### Day 11, Saturday, May 27, 2017, 7:00PM
+All i did today was go for an hour walk and listen to episode 12 of the Not So Standard Deviations 
