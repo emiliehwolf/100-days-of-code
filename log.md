@@ -94,3 +94,6 @@ All I did today was go for an hour walk and listen to episodes 13 and 14 of the 
 I didn't code for just 1 hour... more like 5. I've been up since early this morning and finished my final assignment for Exploratory Data Analysis on Coursera. Now I just need to review the work of 4 other students...
 
 **Link to Project:** [EDA_Wk4Assignment](https://github.com/emiliehwolf/EDA_Wk4Assignment)
+
+### Day 13, Thursday, June 1, 2017, 9:29PM
+Yeah, so I didn't code for 3 days in a row. It was Memorial Day and I needed to celebrate with family and then rest. Today started a bunch of new dailies on Habitica and listened to episode 15 of Not So Standard Deviations. It was a good episode about collaboration software, communication, and GitHub flow (using issues as to-do's and branches for new code, even when working alone. Then later I created a nice markdown file for the assignment project I finished last coding session. [Now you can view code and plots together like a tutorial.](https://github.com/emiliehwolf/EDA_Wk4Assignment/blob/master/README.md)
