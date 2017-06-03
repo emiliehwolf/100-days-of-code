@@ -100,4 +100,5 @@ Yeah, so I didn't code for 3 days in a row. It was Memorial Day and I needed to 
 
 ### Day 14, Saturday, June 3, 2017, 1:28AM
 Today I reviewed core R functions and explored the R environment. As I looked over the thousands of objects in the base R package, I felt amused that many were familiar to me and yet many more were not. I am saving my R exploration as a markdown file so I can always go back and view. Here is today's version: https://github.com/emiliehwolf/Rin24Hours/blob/ae2d3ca1277e2f04fefe7fc9c773e31bf4f2526f/readme.md
-I am to really blaze through my library book, R in 24, Hours tomorrow
+
+Tomorrow I hope to blaze through more of my library book and solidify my knowledge of the basics. I know I'm still a little unsure about functions like apply, tapply, sapply, and mapply.
