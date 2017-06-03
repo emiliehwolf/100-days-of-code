@@ -97,3 +97,7 @@ I didn't code for just 1 hour... more like 5. I've been up since early this morn
 
 ### Day 13, Thursday, June 1, 2017, 9:29PM
 Yeah, so I didn't code for 3 days in a row. It was Memorial Day and I needed to celebrate with family and then rest. Today I started a bunch of new dailies on Habitica and listened to episode 15 of Not So Standard Deviations. It was a good episode about collaboration software, communication, and GitHub flow (using issues as to-do's and branches for new code, even when working alone). Then later I created a nice markdown file for the assignment project I finished last coding session. [Now you can view code and plots together like a tutorial.](https://github.com/emiliehwolf/EDA_Wk4Assignment/blob/master/README.md)
+
+### Day 14, Saturday, June 3, 2017, 1:28AM
+Today I reviewed core R functions and explored the R environment. As I looked over the thousands of objects in the base R package, I felt amused that many were familiar to me and yet many more were not. I am saving my R exploration as a markdown file so I can always go back and view. Here is today's version: https://github.com/emiliehwolf/Rin24Hours/blob/ae2d3ca1277e2f04fefe7fc9c773e31bf4f2526f/readme.md
+I am to really blaze through my library book, R in 24, Hours tomorrow
