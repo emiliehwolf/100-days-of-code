@@ -109,3 +109,8 @@ Yesterday and today was all research. I reviewed all my data science links that 
 R is a very powerful, free tool and it's worth the investment of time to learn it. It can read all kinds of data and provide valuable insight! And thanks to a member in my Habitica party, I found a website called datasketch.es that is the EXACT type of work I'm trying to produce; interactive data in a webpage! The more I read about the process behind the visualizations, the more I finally understood the connections. I know HTML, CSS, and SVG. I had a hunch they were using JavaScript, and then I saw mention of D3.js again. If I want to create similar graphics, I will need to learn JavaScript... or at least relearn the basics and the D3 package.
 
 I can start on w3schools.com to learn JS, and while I'm at it, I may as well learn Bootstrap for mobile-ready websites! THEEEN, once I know how to create out-of-this-world visualizations of big data, I can learn how to build apps and complete my dream app. Wow! That's a lot of work! Or maybe I can partner with others up to the challenge if I can convince them this is a fun model. 
+
+### Day 17 and 18, Tuesday, June 6, 2017 10:45PM
+Yesterday and today was all review. I finished uploading all my links to dropmark.com. Booyakasha!
+
+**Link to LINKS:** http://emiliehwolf.dropmark.com/427669
