@@ -110,7 +110,14 @@ R is a very powerful, free tool and it's worth the investment of time to learn i
 
 I can start on w3schools.com to learn JS, and while I'm at it, I may as well learn Bootstrap for mobile-ready websites! THEEEN, once I know how to create out-of-this-world visualizations of big data, I can learn how to build apps and complete my dream app. Wow! That's a lot of work! Or maybe I can partner with others up to the challenge if I can convince them this is a fun model. 
 
-### Day 17 and 18, Tuesday, June 6, 2017 10:45PM
+### Day 17 and 18, Tuesday, June 6, 2017, 10:45PM
 Yesterday and today was all review. I finished uploading all my links to dropmark.com. Booyakasha!
 
 **Link to LINKS:** http://emiliehwolf.dropmark.com/427669
+
+### Day 19, Monday, June 12, 2017, 11:12PM
+I reviewed the chapter on loops and apply functions in R in 24 Hours. I returned the book, but will continue to try and make study guides.
+
+I also tried to find an online R console for practice. http://www.r-fiddle.org/ can display plots and seems promising, so I added it to my dropmark. The next best available console was https://www.tutorialspoint.com/execute_r_online.php but I couldn't find a graphics display. Maybe it has to actually save a file to a graphics device before you can see the graphics.
+
+Tomorrow's another day.
