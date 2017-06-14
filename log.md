@@ -121,3 +121,6 @@ I reviewed the chapter on loops and apply functions in R in 24 Hours. I returned
 I also tried to find an online R console for practice. http://www.r-fiddle.org/ can display plots and seems promising, so I added it to my dropmark. The next best available console was https://www.tutorialspoint.com/execute_r_online.php but I couldn't find a graphics display. Maybe it has to actually save a file to a graphics device before you can see the graphics.
 
 Tomorrow's another day.
+
+### Day 20, Tuesday, June 13, 2017, 10:50PM
+Most of my things are packed, and I don't even have a desk to sit at right now. I spent my hour today optimizing photos I took of my library book so I can easily access the material in the future. I expect to be approved for the next Coursera class soon.
