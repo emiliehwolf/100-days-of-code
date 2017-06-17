@@ -124,3 +124,10 @@ Tomorrow's another day.
 
 ### Day 20, Tuesday, June 13, 2017, 10:50PM
 Most of my things are packed, and I don't even have a desk to sit at right now. I spent my hour today optimizing photos I took of my library book so I can easily access the material in the future. I expect to be approved for the next Coursera class soon.
+
+### Day 21, Friday, June 16, 2017, 8:19PM
+**Today's Progress:** The last couple of days were moving days. Today I woke up in my new place, fixed my bicycle, and secured a job interview for next week (not data science related however). For my one hour of coding, I started watching the lectures for Week 1 of Reproducible Research and saved any pertinent links to my dropmark. 
+
+**Thoughts:** Reproduciblity seems to be tied to workflow and documenting all the steps. I think I've already been doing this during programming assignments throughout the classes and when I make study guides, but the way I'm doing it now is probably slower than it should be. I hope to soon learn R Markdown and quickly and easily convert it to HTML or Github markdown. Not sure what the package knitr does, but I hope it makes documenting my analysis much easier in the coming weeks.
+
+**Links to similar topics:** http://emiliehwolf.dropmark.com/427669/10734737 http://emiliehwolf.dropmark.com/427669/10718231
