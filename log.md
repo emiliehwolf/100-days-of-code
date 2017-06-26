@@ -138,3 +138,11 @@ https://github.com/rdpeng/courses/blob/master/05_ReproducibleResearch/Reproducib
 https://github.com/rdpeng/courses/blob/master/05_ReproducibleResearch/structureOfADataAnalysis1/index.md
 https://github.com/rdpeng/courses/blob/master/05_ReproducibleResearch/structureOfADataAnalysis2/index.md
 https://github.com/rdpeng/courses/blob/master/05_ReproducibleResearch/organizingADataAnalysis/index.md
+
+## Day 23, 24, 25, 26, and 27, Sunday, June 25, 2017, 11:02PM
+Yes, for 5 days in a row, I dedicated time to finising an optional ggplot2 assignment. It took me a while to go over how ggplot2 works, but once I got the basics down, then I tweaked and tweaked until the plots looked professional enough. Lastly, I made sure to use a colorblind-friendly color palatte for the multi-panel graphs.
+
+Here are the 2 PDF plots and the R script to make them:
+https://github.com/emiliehwolf/ReproducibleResearchPlottingPractice/blob/master/plot0.pdf
+https://github.com/emiliehwolf/ReproducibleResearchPlottingPractice/blob/master/plot1.pdf
+https://github.com/emiliehwolf/ReproducibleResearchPlottingPractice/blob/master/analysis.R
