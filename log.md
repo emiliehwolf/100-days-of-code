@@ -146,3 +146,6 @@ Here are the 2 PDF plots and the R script to make them:
 https://github.com/emiliehwolf/ReproducibleResearchPlottingPractice/blob/master/plot0.pdf
 https://github.com/emiliehwolf/ReproducibleResearchPlottingPractice/blob/master/plot1.pdf
 https://github.com/emiliehwolf/ReproducibleResearchPlottingPractice/blob/master/analysis.R
+
+## Day 28, Tuesday, June 27, 2017, 11:59PM
+I did my best today. I watched some more lecture videos on reproducible research, knitr, and R markdown. I'm sleepy. Bedtime.
