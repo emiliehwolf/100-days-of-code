@@ -149,3 +149,6 @@ https://github.com/emiliehwolf/ReproducibleResearchPlottingPractice/blob/master/
 
 ## Day 28, Tuesday, June 27, 2017, 11:59PM
 I did my best today. I watched some more lecture videos on reproducible research, knitr, and R markdown. I'm sleepy. Bedtime.
+
+## Day 29, Wednesday, June 28, 2017, 5:35PM
+I finished watching the week 2 videos on Coursera about knitr and passed the quiz. I read the requirements for the project assignment and downloaded the data into a new folder, but I haven't started a Git or R project for it yet. I'll do that tomorrow hopefully, but probably not since I work all day tomorrow for my new job.
