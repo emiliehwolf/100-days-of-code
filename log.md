@@ -152,3 +152,4 @@ I did my best today. I watched some more lecture videos on reproducible research
 
 ## Day 29, Wednesday, June 28, 2017, 5:35PM
 I finished watching the week 2 videos on Coursera about knitr and passed the quiz. I read the requirements for the project assignment and downloaded the data into a new folder, but I haven't started a Git or R project for it yet. I'll do that tomorrow hopefully, but probably not since I work all day tomorrow for my new job.
+https://github.com/rdpeng/courses/blob/master/05_ReproducibleResearch/knitr/knitr.pdf
