@@ -139,7 +139,7 @@ https://github.com/rdpeng/courses/blob/master/05_ReproducibleResearch/structureO
 https://github.com/rdpeng/courses/blob/master/05_ReproducibleResearch/structureOfADataAnalysis2/index.md
 https://github.com/rdpeng/courses/blob/master/05_ReproducibleResearch/organizingADataAnalysis/index.md
 
-## Day 23, 24, 25, 26, and 27, Sunday, June 25, 2017, 11:02PM
+### Day 23, 24, 25, 26, and 27, Sunday, June 25, 2017, 11:02PM
 Yes, for 5 days in a row, I dedicated time to finising an optional ggplot2 assignment. It took me a while to go over how ggplot2 works, but once I got the basics down, then I tweaked and tweaked until the plots looked professional enough. Lastly, I made sure to use a colorblind-friendly color palatte for the multi-panel graphs.
 
 Here are the 2 PDF plots and the R script to make them:
@@ -147,9 +147,13 @@ https://github.com/emiliehwolf/ReproducibleResearchPlottingPractice/blob/master/
 https://github.com/emiliehwolf/ReproducibleResearchPlottingPractice/blob/master/plot1.pdf
 https://github.com/emiliehwolf/ReproducibleResearchPlottingPractice/blob/master/analysis.R
 
-## Day 28, Tuesday, June 27, 2017, 11:59PM
+### Day 28, Tuesday, June 27, 2017, 11:59PM
 I did my best today. I watched some more lecture videos on reproducible research, knitr, and R markdown. I'm sleepy. Bedtime.
 
-## Day 29, Wednesday, June 28, 2017, 5:35PM
+### Day 29, Wednesday, June 28, 2017, 5:35PM
 I finished watching the week 2 videos on Coursera about knitr and passed the quiz. I read the requirements for the project assignment and downloaded the data into a new folder, but I haven't started a Git or R project for it yet. I'll do that tomorrow hopefully, but probably not since I work all day tomorrow for my new job.
 https://github.com/rdpeng/courses/blob/master/05_ReproducibleResearch/knitr/knitr.pdf
+
+### Day 30 and 31, Monday, July 3, 2017, 10:10AM
+I listened to NSSD podcasts yesterday after work and today this morning. They talked about engineering data with Google spreadsheets and R for personal finances and taxes, which was really intriguing because for the first year of marriage, my husband and I kept track of all our income and expenses using Google Spreadsheet Form shortcuts on our phones. It got me thinking how I would go about collecting finance data again, but even tidier. What variables are important? What might missing data tell me? Is it possible my old data-entry design was fine? What happens if I put our first year of finance data into R? Does it need cleaning or manipulating before I can produce graphs in R? Should I start by entering all my current debts and assets so I can keep a running account total? And my husband's? I will definitely return to this once I've learned more on Statistical Inference. Perhaps I can just start a new entry form and spreadsheet for myself so I can get a new dataset to play with, then compare. Hmmmm. Okay, enough of that. Onto the assignment that was due yesterday.
+
