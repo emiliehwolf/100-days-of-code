@@ -159,6 +159,8 @@ I listened to NSSD podcasts yesterday after work and today this morning. They ta
 
 **Update 4:20PM** Instead of focusing on the course assignment, I got carried away trying to use R Markdown and knitr to take some ggplot2 demo code and produce an entire HTML page with graphics and uploaded it to my website. Now I know how to quickly produce tutorials with R code. So cool! Check it out here: http://www.wolf.engineer/the-grammar.html
 
+**Update 9:00PM** Another ggplot tutorial here: http://www.wolf.engineer/moreggplot2.html
+
 ### Day 32, Tuesday, July 4, 2017, 1:08PM
 **Progress:** Yesterday and today I made a lot more headway on my programming assignment (that was due 2 days ago). 
 
