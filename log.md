@@ -161,5 +161,7 @@ I listened to NSSD podcasts yesterday after work and today this morning. They ta
 
 ### Day 32, Tuesday, July 4, 2017, 1:08PM
 **Progress:** Yesterday and today I made a lot more headway on my programming assignment (that was due 2 days ago). 
+
 **Thoughts:** R Markdown is so helpful. I'm really enjoying this assignment and how I'm using everything we've learned so far in the first 5 classes. My work feels more robust! I don't mind that I'm taking a long time, because I want to truly learn it!
+
 **Link to latest work:** https://github.com/emiliehwolf/RepData_PeerAssessment1/blob/3b2e4c04386c036ef04c8e040ca3120a39bea905/PA1_template.Rmd
