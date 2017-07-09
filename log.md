@@ -172,3 +172,9 @@ I listened to NSSD podcasts yesterday after work and today this morning. They ta
 Bask in the glory that is my latest statistical analysis report for my Coursera class.
 
 https://github.com/emiliehwolf/RepData_PeerAssessment1/blob/master/PA1_template.md
+
+### Day 35, Saturday, July 8, 2017, 11:00PM
+I watched some more lecture videos on reproducible research (week 3). I also figured out how to convert .Rmd to .md (in addition to .html, .pdf, and .docx.
+
+https://github.com/emiliehwolf/ggplot2_examples/blob/master/moreggplot2.md
+https://github.com/emiliehwolf/ggplot2_examples/blob/master/the-grammar.md
