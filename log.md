@@ -178,3 +178,10 @@ I watched some more lecture videos on reproducible research (week 3). I also fig
 
 https://github.com/emiliehwolf/ggplot2_examples/blob/master/moreggplot2.md
 https://github.com/emiliehwolf/ggplot2_examples/blob/master/the-grammar.md
+
+### Day 36 and 37, Tuesday, July 11, 2017, 11:29PM
+Yesterday I listened to another NSSD podcast and finished watching lecture videos on RPubs. Today I started the final peer review assignment for this course. 
+
+Link to work: https://github.com/emiliehwolf/NOAA-Analysis-Report
+
+I still want to learn Git flow, using branches and merges, so I can go back to old analyses and add more detailed plots the tidy way of version control.
