@@ -189,3 +189,8 @@ I still want to learn Git flow, using branches and merges, so I can go back to o
 ### Day 38, Wednesday, July 12, 2017, 10:08PM
 Today I worked on the NOAA-Analysis-Report some more. Chugging along...
 Latest commit: https://github.com/emiliehwolf/NOAA-Analysis-Report/tree/5a9eca9fe7abfc0dc471d062de290a7e9456481d
+
+### Day 39 and 40, Sunday, July 16, 2017, 10:02PM
+Worked more on the NOAA assignment, but didn't finish before the deadline. Might have to switch sessions. =\
+
+Latest commit: https://github.com/emiliehwolf/NOAA-Analysis-Report/blob/cf0fa0c12d1a9edce02c2ab359eaa31017262134/StormResearch.Rmd
