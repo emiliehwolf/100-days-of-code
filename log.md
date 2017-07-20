@@ -194,3 +194,8 @@ Latest commit: https://github.com/emiliehwolf/NOAA-Analysis-Report/tree/5a9eca9f
 Worked more on the NOAA assignment, but didn't finish before the deadline. Might have to switch sessions. =\
 
 Latest commit: https://github.com/emiliehwolf/NOAA-Analysis-Report/blob/cf0fa0c12d1a9edce02c2ab359eaa31017262134/StormResearch.Rmd
+
+### Day 41, 42, and 43, Wednesday, July 19, 2017 5:00PM
+**Progress:** Monday night I finished the assignment and Tuesday and Wednesday I listened to podcasts and finished grading the other students on the NOAA Storm Research assignment.
+
+**Thoughts:** I showed my report to a few strangers and they said it looks confusing. I agreed. Even though I know what's going on in the research and code, it doesn't look appealing at all to a laymen, which is disappointing because the whole reason I want to learn data science is to be able to simplify complex problems into engaging visuals. I want to make pretty infographics and websites and apps... not boring reports with synopses, abstracts, and jargon. The data manipulation code and the reproducible research report are necessary to validate my work, but they cannot stand alone. I want to appeal to the masses, not other statisticians. I want to produce vibrant work that inspires others to become data scientists. I'm here to creatively express ideas, not bore people to sleep! LOL
