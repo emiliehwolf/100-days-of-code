@@ -213,10 +213,11 @@ Anyway, I am going to take my time and fully immerse myself in higher math so I 
 ![statistics.png](http://www.wolf.engineer/wp-content/uploads/2017/08/statistics.png)
 
 **More Notes on Set Operations:** These come from base R...
-
+```
 union(x, y)
 intersect(x, y)
 setdiff(x, y)
 setequal(x, y)
-
-is.element(el, set) --- is.element(x, y) is identical to x %in% y.
+is.element(el, set) 
+x %in% y
+```
