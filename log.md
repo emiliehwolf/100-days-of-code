@@ -204,3 +204,10 @@ Latest commit: https://github.com/emiliehwolf/NOAA-Analysis-Report/blob/cf0fa0c1
 Today I started the Coursera class Statistical Inference. It's being taught by a different professor and so the style is quite different. Professor Caffo says to not feel bad if we switch sessions and join a later class so as to fully understand the materials. After starting on Probability, I realized that Caffo was speaking awefully fast, so I decided to go to Khan Academy and get a review of the basics and vocabulary. I watched videos on probablity for about an hour, but just as I got into sets, subsets, and unions, I fell asleep. And I slept for 5 hours! Which is crazy because I thought I caught up on sleep the last 3 days!
 
 Anyway, I am going to take my time and fully immerse myself in higher math so I can get the most out of this Statistical Inference class. I'm excited to be diving back into the type of academics I remember from University!
+
+### Day 45, Saturday, August 5, 2017, 6PM
+**Progress:** Watched Khan Academy videos on probability. Then read an R-bloggers article on [basic set theory in R (unions, intersections, and subsets)](https://www.r-bloggers.com/set-operations-unions-and-intersections-in-r/).
+
+**Thoughts:** I remember using Wolfram Alpha a lot in college to aid with my study. I just realized that R programming is like the upgrade version of WolframAlpha that can calculate higher math on big, complex datasets. I'm loving where data science is going. I hope as I look over the horizon to the future, I can see farther and further. To think I've been using computers since AmericaOnLine and 28K dialup speeds. To think that free access to the internet has provided me the best education. What's next?! What amazing superpower talent am I going to acquire that takes my previous skills and combines them?
+
+![statistics.png](http://www.wolf.engineer/wp-content/uploads/2017/08/statistics.png)
