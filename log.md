@@ -221,3 +221,4 @@ setequal(x, y)
 is.element(el, set) 
 x %in% y
 ```
+Mathematical symbols such as ∪, ∩, ∖, ∈, ∅, ∀, and ⊂, were likely invented to make writing and teaching math easier. Now, with keyboards at our fingertips, it's easier to put together the English words for those mathematical functions. It's as if math symbols are not needed.
