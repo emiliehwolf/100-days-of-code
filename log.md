@@ -211,3 +211,12 @@ Anyway, I am going to take my time and fully immerse myself in higher math so I 
 **Thoughts:** I remember using Wolfram Alpha a lot in college to aid with my study. I just realized that R programming is like the upgrade version of WolframAlpha that can calculate higher math on big, complex datasets. I'm loving where data science is going. I hope as I look over the horizon to the future, I can see farther and further. To think I've been using computers since AmericaOnLine and 28K dialup speeds. To think that free access to the internet has provided me the best education. What's next?! What amazing superpower talent am I going to acquire that takes my previous skills and combines them?
 
 ![statistics.png](http://www.wolf.engineer/wp-content/uploads/2017/08/statistics.png)
+
+**More Notes on Set Operations:** These come from base R...
+
+union(x, y)
+intersect(x, y)
+setdiff(x, y)
+setequal(x, y)
+
+is.element(el, set) --- is.element(x, y) is identical to x %in% y.
