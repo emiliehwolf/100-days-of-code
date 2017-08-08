@@ -226,3 +226,5 @@ Mathematical symbols such as ∪, ∩, ∖, ∈, ∅, ∀, and ⊂, were likely 
 ### Day 46, Monday, August 7, 2017, 10PM
 
 I listened to the NSSD podcast and Roger Peng introduced his youtube video on live analysis. So, I watched it, and I gotta say, his comments are funny, but he did a lot of work in the command prompt that I was unfamiliar with. Also, he was only analyzing 38 values, so I feel like it would have been easier to just start by creating a vector by looking at the values on his SoundCloud rather than using regular expressions to scrape the contents of a folders on his computer. I dunno. It was interesting. Other than thinking about analysis, I'm still procrastinating doing my Statistical Inference class. Here's hoping I can get week 1 underway.
+
+Youtube: https://www.youtube.com/watch?v=pOA2wggeQkQ
