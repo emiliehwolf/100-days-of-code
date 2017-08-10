@@ -228,3 +228,23 @@ Mathematical symbols such as ∪, ∩, ∖, ∈, ∅, ∀, and ⊂, were likely 
 I listened to the NSSD podcast and Roger Peng introduced his youtube video on live analysis. So, I watched it, and I gotta say, his comments are funny, but he did a lot of work in the command prompt that I was unfamiliar with. Also, he was only analyzing 38 values, so I feel like it would have been easier to just start by creating a vector by looking at the values on his SoundCloud rather than using regular expressions to scrape the contents of a folders on his computer. I dunno. It was interesting. Other than thinking about analysis, I'm still procrastinating doing my Statistical Inference class. Here's hoping I can get week 1 underway.
 
 Youtube: https://www.youtube.com/watch?v=pOA2wggeQkQ
+
+## Day 47 and 48, Thursday, August 10, 2017, 2:45PM
+
+All day yesterday and today I watched videos on Khan Academy and Coursera on:
+theoretical probability
+experimental probability
+conditional probability
+expected values
+mutually exclusive sets
+set intersections and unions... 
+continuous and discrete random variables (or outcomes)
+A probability mass function (PMF) gives the probability that a discrete random variable is exactly equal to some value.
+A probability density function is associated with a continuous random variable.
+cumulitive distribution function
+If you're familiar with calculus you might recognize that when you're computing areas under curves you're actually integrating functions.
+derivitives
+Bayes Theorem
+iid random variables...
+
+And tonight I'm going to a meetup
