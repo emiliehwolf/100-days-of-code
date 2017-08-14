@@ -229,7 +229,7 @@ I listened to the NSSD podcast and Roger Peng introduced his youtube video on li
 
 Youtube: https://www.youtube.com/watch?v=pOA2wggeQkQ
 
-## Day 47 and 48, Thursday, August 10, 2017, 2:45PM
+### Day 47 and 48, Thursday, August 10, 2017, 2:45PM
 
 All day yesterday and today I watched videos on Khan Academy and Coursera on:
 theoretical probability
@@ -248,3 +248,7 @@ Bayes Theorem
 iid random variables...
 
 And tonight I'm going to a meetup
+
+### Day 49, Sunday, August 13, 2017, 9PM
+
+Today I watched videos on test validity, specificity, sensitivity, and true and false positives and negatives. I couldn't do much else because my mind wouldn't focus for long... because of hormones.
